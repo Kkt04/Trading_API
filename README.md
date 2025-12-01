@@ -358,17 +358,3 @@ prisma generate
 3. Make your changes
 4. Run tests
 5. Submit a pull request
-
-## License
-
-MIT License
-
-## Contact
-
-For questions or issues, please contact the development team.
-
----
-
-**Assignment completed by:** [Your Name]  
-**Date:** [Current Date]  
-**GitHub Repository:** [Your Repo URL]
